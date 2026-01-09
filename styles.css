@@ -59,8 +59,9 @@ button a:hover {
     color: blue;
 }
 .tools-section {
-    padding: 20px;
-    background-color: blue;
+    padding: 10px;
+    background-color: white;
     color: black;
     text-align: center;
+
 }
